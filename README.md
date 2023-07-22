@@ -1,4 +1,4 @@
-# terraform
+# terraform for deploying 2 EPGs with static port binding in Cisco ACI
 IaaC for ACI
 
 Creates below from scratch
